@@ -1,0 +1,9 @@
+
+"darkrp"
+{
+	"base" 		"helix"
+	"title"         "DarkRP"
+    	"version"       "2.7.0"
+    	"category"      "rp"
+    	"menusystem"    "1"
+}
